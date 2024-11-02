@@ -2,8 +2,6 @@ print("-------======>> Pandas Tutorials <<=======---------\n")
 import numpy as np
 import pandas as pd
 
-# data = open("C:\Users\EMHASH\Desktop\Machine Learning and AI\Pandas-Tutorial\demo.csv")
-# print(data)
 data = {
     "total_bill":[16.99,10.34,21.01],
     "tip":[1.01,1.66,3.5,],
